@@ -1,0 +1,25 @@
+{
+  "name": "herroworld",
+  "version": "1.0.0",
+  "description": "Another one bytes the dust.\r And another one \r and another one two three",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckysan/HerroWorld.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "chucky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuckysan/HerroWorld/issues"
+  },
+  "homepage": "https://github.com/chuckysan/HerroWorld#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
